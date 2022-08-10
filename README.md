@@ -1,3 +1,5 @@
+<a href="https://wakatime.com/@67f0672f-51cc-4b54-95c9-54a4324a1a1e"><img src="https://wakatime.com/badge/user/67f0672f-51cc-4b54-95c9-54a4324a1a1e.svg" alt="Total time coded since Aug 10 2022" /></a><br>
+
 <h1 align='center'> Hello World! I'm Cartim, An Absolute :beginner: Beginner :blush: </h1>
 <p align=center><img src="https://cartim-draluc.netlify.app/pixlr-bg-result.png" width=500px height=300px></p>
 <p align='center'><i>I was holding a :knife: in the picture :smiling_imp:</i></p><hr>
