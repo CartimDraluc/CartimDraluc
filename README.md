@@ -56,3 +56,5 @@
     </p>
 </details>
 <hr>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31icxffn4n4hrcpat2rszt6r3yjy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
