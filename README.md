@@ -1,4 +1,4 @@
-<a href="https://wakatime.com/@67f0672f-51cc-4b54-95c9-54a4324a1a1e"><img src="https://wakatime.com/badge/user/67f0672f-51cc-4b54-95c9-54a4324a1a1e.svg" alt="Total time coded since Aug 10 2022" /></a><br>
+<a href="https://wakatime.com/@67f0672f-51cc-4b54-95c9-54a4324a1a1e"><img src="https://wakatime.com/badge/user/67f0672f-51cc-4b54-95c9-54a4324a1a1e.svg" alt="Total time coded since Aug 10 2022" /></a> <a href="https://www.youtube.com/channel/UCQSQz72grf6xK1zb60IQsWA"><img src="https://img.shields.io/youtube/channel/subscribers/UCQSQz72grf6xK1zb60IQsWA?style=flat&logo=youtube"></a> <a href="https://www.youtube.com/channel/UCQSQz72grf6xK1zb60IQsWA"><img src="https://img.shields.io/youtube/channel/views/UCQSQz72grf6xK1zb60IQsWA?style=flat&logo=youtube"></a><br>
 
 <h1 align='center'> Hello World! I'm Cartim, An Absolute :beginner: Beginner :blush: </h1>
 <p align=center><img src="https://cartim-draluc.netlify.app/pixlr-bg-result.png" width=500px height=300px></p>
@@ -16,7 +16,7 @@
     <details>
     <summary align=center>:chart_with_upwards_trend: GitHub Profile Summary Card</summary><br>
         <p align=center>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartimDraluc&theme=vue"> <img src="https://activity-graph.herokuapp.com/graph?username=CartimDraluc&theme=minimal">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartimDraluc&theme=vue"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CartimDraluc">
         </p>
     </details>
     <hr>
@@ -57,4 +57,7 @@
 </details>
 <hr>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31icxffn4n4hrcpat2rszt6r3yjy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31icxffn4n4hrcpat2rszt6r3yjy&cover_image=true&theme=default">
+</div>
+
